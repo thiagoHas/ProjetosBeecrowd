@@ -6,7 +6,7 @@
         {
 
             Console.WriteLine("Teste de comitt");
-            Console.WriteLine("Sera que foi?");
+            Console.WriteLine("Sera que foi");
             Console.ReadLine();
         }
     }
